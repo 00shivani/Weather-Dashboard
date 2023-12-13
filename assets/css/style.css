@@ -1,0 +1,23 @@
+ion-icon {
+    color:whitesmoke;
+    --ionicon-stroke-width: 80px;
+    font-weight: 100;
+  }
+#jumbotron {
+    width: 100vh;
+}
+#outerdiv {
+    background: linear-gradient(to right, #614385, #516395);
+
+}
+#title {
+    font-size: 50px;
+    font-weight: 5;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.boxesbox {
+    display: flex;
+    width: max-content;
+}
